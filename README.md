@@ -55,6 +55,3 @@ Logging was implemented using the **`logging`** module to:
 - Track key processes (INFO level)  
 - Identify and debug potential issues  
 - Maintain clean and structured event records  
-
-
-logging.info("Dataset loaded successfully.")
